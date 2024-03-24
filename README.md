@@ -10,7 +10,6 @@ Clone the repository and navigate to the project directory:
 
 ```bash
 git clone git@github.com:santosh-rawat-prof/LizMotors_FrontEnd_Assignment.git
-
 cd LizMotors_FrontEnd_Assignment
 ```
 
@@ -78,8 +77,3 @@ If you encounter any issues, refer to the [Vite troubleshooting guide](https://v
 # Work Discussion
 
 Handle SignUp UI
-
-```
-
-This template reflects the specific setup and commands for a Vite project. Adjustments have been made accordingly. Feel free to customize it further based on your project's requirements.
-```
