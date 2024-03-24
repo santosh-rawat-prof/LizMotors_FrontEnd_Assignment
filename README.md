@@ -2,6 +2,12 @@
 
 This project was initialized with [Vite](https://vitejs.dev/), a blazing fast frontend build tool.
 
+_ReactFlow library is used._
+
+_ApexCharts.js is Used._
+
+_Tailwind is used as a CSS Framework._
+
 ## Getting Started
 
 ### Installation
